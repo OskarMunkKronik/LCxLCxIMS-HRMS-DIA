@@ -1,0 +1,3 @@
+[submodule "regionofinterest"]
+	path = regionofinterest
+	url = https://github.com/OskarMunkKronik/regionofinterest.git
