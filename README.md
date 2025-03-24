@@ -1,4 +1,4 @@
-# 2DIMS
+# 2DIMS: Terms and conditions
 The code can be used for academic purposes by which the following reference should be cited (the below). For commercial use or -inspiration contact OM Kronik (omkr@plen.ku.dk), JH Christensen (jch@plen.ku.dk), G Tomasi (gito@plen.ku.dk) and NJ Nielsen (njn@plen.ku.dk
 
 Publication: 
